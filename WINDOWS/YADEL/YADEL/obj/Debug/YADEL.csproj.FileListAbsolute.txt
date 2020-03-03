@@ -1,0 +1,9 @@
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\bin\Debug\YADEL.exe.config
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\bin\Debug\YADEL.exe
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\bin\Debug\YADEL.pdb
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\obj\Debug\YADEL.csprojAssemblyReference.cache
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\obj\Debug\YADEL.Form1.resources
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\obj\Debug\YADEL.Properties.Resources.resources
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\obj\Debug\YADEL.csproj.GenerateResource.cache
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\obj\Debug\YADEL.exe
+C:\Users\guigur\Documents\github\YADEL\WINDOWS\YADEL\YADEL\obj\Debug\YADEL.pdb
